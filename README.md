@@ -26,7 +26,7 @@ class Quentin:
 quentin = Quentin()
 quentin.say_about()
 ```
-&nbsp;<div align=center>
+<div align=center>
   ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=awyeahhhh&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=36dd87&bar_color_cover=false)
 </div>
 

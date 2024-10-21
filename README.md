@@ -12,8 +12,8 @@ class Quentin:
         self.interests = ["Programming", "astrophysics", "PC building", "Digital Art", "Video Games"]
         self.languages = ["Python", "C++", "Javascript", "HTML", "CSS", "MySQL"]
         self.projects = {
-        "EEG_flappybird" : "Python",
-        "Fight Match (school project)" : "Python"
+            "EEG_flappybird" : "Python",
+            "Fight Match (school project)" : "Python"
         }
     
     def say_about(self):
@@ -23,7 +23,7 @@ class Quentin:
         for project, language in self.projects.items():
             print(f"({project} : {language}),", end=" ")
 
-quentin= Quentin()
+quentin = Quentin()
 quentin.say_about()
 ```
 ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=awyeahhhh&cover_image=true&theme=natemoo-re&show_offline=false&background_color=100f3e&interchange=false&bar_color=000000&bar_color_cover=false)  

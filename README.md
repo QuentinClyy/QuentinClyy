@@ -26,11 +26,8 @@ class Quentin:
 quentin = Quentin()
 quentin.say_about()
 ```
-<td align="center" width="35%">
-  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.vercel.app/api/view?uid=cpac5km4w2f2us15fksrxncas&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true](https://spotify-github-profile.kittinanx.com/api/view?uid=awyeahhhh&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=36dd87&bar_color_cover=false)">
-   <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=cpac5km4w2f2us15fksrxncas&cover_image=true&theme=default&show_offline=false&background_color='ffffff'&interchange=false&bar_color_cover=true](https://spotify-github-profile.kittinanx.com/api/view?uid=awyeahhhh&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=36dd87&bar_color_cover=false)" alt="Quentin's Spotify"/>
-  </div>
- </td>
+<div align=center>
+  ![spotify]https://spotify-github-profile.kittinanx.com/api/view?uid=awyeahhhh&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=36dd87&bar_color_cover=false)
+</div>
 
 ![Visitor Count](https://profile-counter.glitch.me/QuentinClyy/count.svg)  

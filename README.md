@@ -27,7 +27,7 @@ quentin = Quentin()
 quentin.say_about()
 ```
 &nbsp;<div align=center>
-  [![Spotify](https://QuentinClyy.vercel.app/api/spotify)](https://open.spotify.com/user/awyeahhhh)
+  [![Spotify](novatorem-git-main-quentins-projects-0f4a77a4.vercel.app)](https://open.spotify.com/user/awyeahhhh)
 </div>
 
 ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=awyeahhhh&cover_image=true&theme=natemoo-re&show_offline=false&background_color=100f3e&interchange=false&bar_color=000000&bar_color_cover=false)  

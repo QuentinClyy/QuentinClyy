@@ -17,11 +17,11 @@ class Quentin:
         }
     
     def say_about(self):
-        print(f"I love {*self.interests,}")
-        print(f"I code in : {*quentin.languages,}")
-        print("Projects :", end=" ")
+        print(f"I love {', '.join(self.interests)}")
+        print(f"I code in {', '.join(quentin.languages)}")
+        print("Projects:", end=" ")
         for project, language in self.projects.items():
-            print(f"({project} : {language}),", end=" ")
+            print(f"{project} in {language},", end=" ")
 
 quentin = Quentin()
 quentin.say_about()

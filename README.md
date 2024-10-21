@@ -6,13 +6,14 @@
 </h3>
   
 ```python
-def interest():
-  programming = "Programming"
-  astrophysics = "astrophysics"
-  pc_building = "PC building"
-  digital_art = "Digital Art"
-  video_games = "Video Games"
-  print(programming, astrophysics, pc_building, digital_art, video_games)
+class Quentin:
+
+  def interests():
+    interests = ["Programming", "astrophysics", "PC building", "Digital Art", "Video Games"]
+    return(interests)
+
+  def languages():
+    
 ```
 ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=awyeahhhh&cover_image=true&theme=natemoo-re&show_offline=false&background_color=100f3e&interchange=false&bar_color=000000&bar_color_cover=false)  
 ![Visitor Count](https://profile-counter.glitch.me/QuentinClyy/count.svg)  

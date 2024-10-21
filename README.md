@@ -18,7 +18,7 @@ class Quentin:
     
     def say_about(self):
         print(f"I love {', '.join(self.interests)}")
-        print(f"I code in {', '.join(quentin.languages)}")
+        print(f"I code in {', '.join(self.languages)}")
         print("Projects:", end=" ")
         for project, language in self.projects.items():
             print(f"{project} in {language},", end=" ")

@@ -12,7 +12,7 @@ class Quentin:
         self.interests = ["Programming", "Astrophysics", "PC building", "Digital Art", "Video Games"]
         self.languages = ["Python", "C++", "Javascript", "HTML", "CSS", "MySQL"]
         self.projects = {
-            "EEG_flappybird" : "Python",
+            "EEG_flappybird (contribution)" : "Python",
             "Fight Match (first school project)" : "Python"
         }
     

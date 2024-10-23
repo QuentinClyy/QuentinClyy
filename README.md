@@ -33,7 +33,7 @@ quentin.say_about()
     to add some of my listenings to yours
   </p>
 </div>
-&nbsp;<div>
+&nbsp;<div align=center>
   ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=awyeahhhh&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=36dd87&bar_color_cover=false)
 </div>
 

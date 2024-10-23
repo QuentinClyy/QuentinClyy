@@ -31,6 +31,6 @@ quentin.say_about()
 &nbsp;<div align=right>
   ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=awyeahhhh&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=36dd87&bar_color_cover=false)
 </div>
-<p align=center>careful, you might be compelled to add some of my listenings to yours</p>
+<p align=left>careful, you might be compelled to add some of my listenings to yours</p>
 
 ![Visitor Count](https://profile-counter.glitch.me/QuentinClyy/count.svg)  

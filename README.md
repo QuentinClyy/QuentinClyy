@@ -15,7 +15,8 @@
 class Quentin:
 
     def __init__(self):
-        self.interests = ["Programming", "Artifical Intelligence", "Astrophysics", "PC building", "Digital Art", "Video Games"]
+        self.interests = ["Programming", "Artifical Intelligence", "Astrophysics",
+                          "PC building", "Digital Art", "Video Games"]
         self.languages = ["Python", "C++", "Javascript", "HTML", "CSS", "MySQL"]
         self.projects = {
             "EEG_flappybird (contribution)" : "Python",

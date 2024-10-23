@@ -26,16 +26,19 @@ class Quentin:
 quentin = Quentin()
 quentin.say_about()
 ```
-<div align=left>
-  <h3>My Spotify</h3>
-  <p>
-    Careful, you might be compelled<br>
-    to add some of my listenings to yours
-  </p>
+
+<div style="display: flex; flex-direction: row;">
+  <div style="float: left; width: 50%;">
+    <h3>My Spotify</h3>
+    <p>
+      Careful, you might be compelled<br>
+      to add some of my listenings to yours
+    </p>
+  </div>
+  <div style="float: right; width: 50%;">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=awyeahhhh&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=36dd87&bar_color_cover=false" alt="My Spotify Profile">
+  </div>
 </div>
 
-&nbsp;<div align=right>
-  ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=awyeahhhh&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=36dd87&bar_color_cover=false)
-</div>
 
 ![Visitor Count](https://profile-counter.glitch.me/QuentinClyy/count.svg)  

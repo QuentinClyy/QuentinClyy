@@ -36,4 +36,6 @@ quentin.say_about()
   </div>
 </div>
 
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=awyeahhhh&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=36dd87&bar_color_cover=false)
+
 ![Visitor Count](https://profile-counter.glitch.me/QuentinClyy/count.svg)  

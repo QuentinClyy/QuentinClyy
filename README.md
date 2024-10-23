@@ -1,6 +1,11 @@
 <!-- banner section -->
 
-![img](./assets/QuentinClyy.png)  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/QuentinClyy/QuentinClyy/blob/main/assets/QuentinClyyAlpha.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/QuentinClyy/QuentinClyy/blob/main/assets/QuentinClyy.png">
+  <img alt="QuentinClyy_img" src="https://github.com/QuentinClyy/QuentinClyy/blob/main/assets/QuentinClyy.png">
+</picture>
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=80&pause=700&color=20FF91&center=true&width=1906&height=150&lines=echo+%27Hi%2C+my+name+is+Quentin%27;echo+%27Welcome+to+my+GitHub%27)  
 
 <!-- Me section -->

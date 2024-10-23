@@ -5,7 +5,7 @@
 
 <!-- Me section -->
 
-<h2 style="color: green; text-align: center;">
+<h2 align="center">
   Computer Science Student at <a href="https://www.ulaval.ca">Laval University</a> |  <a href=https://www.instagram.com/quentinsshit/>Digital artist</a> from time to time</p>
 </h2>
 

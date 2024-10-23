@@ -29,7 +29,9 @@ quentin.say_about()
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 1;">
     <h3>My Spotify</h3>
-    <p>Careful, you might be compelled to add some of my listenings to yours</p>
+    <p>Careful, you might be compelled<br>
+      to add some of my listenings to yours
+    </p>
   </div>
   <div style="flex: 1; text-align: right;">
     ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=awyeahhhh&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=36dd87&bar_color_cover=false)

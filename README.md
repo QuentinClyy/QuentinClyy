@@ -37,11 +37,11 @@ quentin.say_about()
 
 <!-- Spotify section -->
 
-<img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=awyeahhhh&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=36dd87&bar_color_cover=false" alt="My Spotify Profile"/>
+<img align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=awyeahhhh&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=36dd87&bar_color_cover=false" alt="My Spotify Profile"/>
 
 <div>
-  <h3 align="center">My Spotify</h3>
-  <p align="center">
+  <h3 align="left">My Spotify</h3>
+  <p align="left">
     Careful, you might be compelled<br>
     to add some of my listenings to yours
   </p>

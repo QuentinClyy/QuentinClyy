@@ -26,7 +26,7 @@ class Quentin:
 quentin = Quentin()
 quentin.say_about()
 ```
-<div align=right>
+<div align=left>
   <h3>My Spotify</h3>
   <p>
     Careful, you might be compelled<br>

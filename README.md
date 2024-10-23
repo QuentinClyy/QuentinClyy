@@ -29,7 +29,8 @@ quentin.say_about()
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 1;">
     <h3>My Spotify</h3>
-    <p>Careful, you might be compelled<br>
+    <p>
+      Careful, you might be compelled<br>
       to add some of my listenings to yours
     </p>
   </div>

@@ -7,7 +7,7 @@
 <!-- Me section -->
 
 <h2 align="center">
-  Computer Science Student at <a href="https://www.ulaval.ca">Laval University</a> |  <a href=https://www.instagram.com/quentinsshit/>Digital artist</a> from time to time</p>
+  Computer Science Student at <a href="https://www.ulaval.ca">Laval University</a> |  <a href=https://www.instagram.com/quentinsshit/>Digital artist</a> sometimes</p>
 </h2>
 
 <!-- Code section -->

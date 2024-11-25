@@ -49,4 +49,4 @@ quentin.say_about()
 
 ##  
 
-![Visitor Count](https://profile-counter.glitch.me/QuentinClyy/count.svg)  
+<!-- ![Visitor Count](https://profile-counter.glitch.me/QuentinClyy/count.svg) >  

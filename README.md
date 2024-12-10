@@ -21,7 +21,8 @@ class Quentin:
         self.languages = ["Python", "C", "C++", "Javascript", "HTML", "CSS", "MySQL"]
         self.projects = {
             "EEG_flappybird (contribution)" : "Python",
-            "Fight Match (first school project)" : "Python"
+            "Fight Match (first school project)" : "Python",
+            "Memory Manager (school project)" : "C++"
         }
     
     def say_about(self):

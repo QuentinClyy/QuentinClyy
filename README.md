@@ -33,7 +33,7 @@
       <img src="./assets/icons/blackhole.icon.png" width="24" height="24"> Deep into Astrophysics
     </td>
     <td rowspan="5" align="right" valign="top">
-      <img src="https://streak-stats.demolab.com?user=Quentinclyy&background=90%2C000000%2C1E3869&border=EB545400&sideNums=20FF91&fire=20FF91&currStreakNum=20FF91&ring=20FF91&dates=CBCBCB&stroke=1E3869&currStreakLabel=20FF91&sideLabels=20FF91" alt="GitHub Streak">
+      <img src="https://streak-stats.demolab.com?user=Quentinclyy&card_height=300&background=90%2C000000%2C1E3869&border=EB545400&sideNums=20FF91&fire=20FF91&currStreakNum=20FF91&ring=20FF91&dates=CBCBCB&stroke=1E3869&currStreakLabel=20FF91&sideLabels=20FF91" alt="GitHub Streak">
     </td>
   </tr>
   <tr>

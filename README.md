@@ -1,10 +1,10 @@
 <!-- banner section -->
 
-<img src="https://github.com/QuentinClyy/QuentinClyy/blob/main/assets/QuentinClyy.png">
+<img src="./assets/header/QuentinClyy.png">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=80&pause=700&color=20FF91&center=true&width=1906&height=150&lines=echo+%27Hi%2C+my+name+is+Quentin%27;echo+%27Welcome+to+my+GitHub%27)  
 
-<!-- Me section -->
+<!-- Brief section -->
 
 <h2 align="center">
   Computer Science Student at <a href="https://www.ulaval.ca">Laval University</a> |  <a href=https://www.instagram.com/quentinsshit/>Digital artist</a> sometimes</p>
@@ -16,15 +16,89 @@
     <img width="48px" alt="LinkedIn" title="LinkedIn" src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=144&color=%2320ff87"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://open.spotify.com/user/awyeahhhh?si=90601f2c60054fcf">
+    <img width="48px" alt="Steam" title="Steam" src="https://www.readmecodegen.com/api/social-icon?name=spotify&size=96&color=%2320ff87"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://steamcommunity.com/id/QuipTM/">
     <img width="48px" alt="Steam" title="Steam" src="https://www.readmecodegen.com/api/social-icon?name=steam&size=144&color=%2320ff87"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+<!-- Description section -->
+<table align="center">
+  <tr>
+    <td>
+      <img src="./assets/icons/blackhole.icon.png" width="24" height="24"> Deep into Astrophysics
+    </td>
+    <td rowspan="5" align="right" valign="top">
+      <img src="https://streak-stats.demolab.com?user=Quentinclyy&background=90%2C000000%2C1E3869&border=EB545400&sideNums=20FF91&fire=20FF91&currStreakNum=20FF91&ring=20FF91&dates=CBCBCB&stroke=1E3869&currStreakLabel=20FF91&sideLabels=20FF91" alt="GitHub Streak">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./assets/icons/neuralnet.icon.png" width="24" height="24"> Artificial Intelligence is my go-to computer subject
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./assets/icons/gamepad.icon.png" width="24" height="24"> Passionate about competitive video games
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./assets/icons/conwayglider.icon.png" width="24" height="24"> Continuously inspired by Mathematics, specifically Cellular Automatas
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./assets/icons/laptop.icon.png" width="24" height="24"> Always in search of learning
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Languages & tools section-->
+<details open>
+  <summary><h2>Languages & tools</h2></summary>
+  <!-- Languages -->
+  <span>
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  </span>
+  <br>
+  <!-- Frameworks -->
+  <span>
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+  </span>
+  <br>
+  <!-- Databases -->
+  <span>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  </span>
+  <br>
+  <!-- Design -->
+  <span>
+    <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+    <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+  </span>
+
+</details>
+
 <!-- Code section -->
 
-```python
+<!-- ```python
 class Quentin:
 
     def __init__(self):
@@ -47,19 +121,6 @@ class Quentin:
 quentin = Quentin()
 quentin.say_about()
 ```
-
-<!-- Spotify section -->
-
-<img align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=awyeahhhh&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=36dd87&bar_color_cover=false" alt="My Spotify Profile"/>
-
-<div>
-  <h3 align="left">My Spotify</h3>
-  <p align="left">
-    Careful, you might be compelled<br>
-    to add some of my listenings to yours
-  </p>
-</div>
-
-##  
+-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/QuentinClyy/count.svg) >  

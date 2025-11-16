@@ -12,9 +12,13 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/quentin-callay"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96&color=%2310b981"/></a>
+  <a href="https://www.linkedin.com/in/quentin-callay">
+    <img width="48px" alt="LinkedIn" title="LinkedIn" src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=144&color=%2320ff87"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://steamcommunity.com/id/QuipTM/"><img width="32px" alt="Steam" title="Steam" src="https://www.readmecodegen.com/api/social-icon?name=steam&size=96&color=%2310b981"/></a>
+  <a href="https://steamcommunity.com/id/QuipTM/">
+    <img width="48px" alt="Steam" title="Steam" src="https://www.readmecodegen.com/api/social-icon?name=steam&size=144&color=%2320ff87"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 

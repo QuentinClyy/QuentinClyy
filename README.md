@@ -7,7 +7,7 @@
 <!-- Brief section -->
 
 <h2 align="center">
-  Computer Science Student at <a href="https://www.ulaval.ca">Laval University</a> |  <a href=https://www.instagram.com/quentinsshit/>Digital artist</a> sometimes</p>
+  Full Stack Developer |  <a href=https://www.instagram.com/quentinsshit/>Digital artist</a> sometimes</p>
 </h2>
 
 <!-- Social icons section -->
@@ -17,7 +17,11 @@
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://open.spotify.com/user/awyeahhhh?si=90601f2c60054fcf">
-    <img width="48px" alt="Steam" title="Steam" src="https://www.readmecodegen.com/api/social-icon?name=spotify&size=96&color=%2320ff87"/>
+    <img width="48px" alt="Spotify" title="Spotify" src="https://www.readmecodegen.com/api/social-icon?name=spotify&size=96&color=%2320ff87"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/quentinsshit">
+    <img width="48px" alt="Instagram" title="Instagram" src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=96&color=%2320ff87"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://steamcommunity.com/id/QuipTM/">
@@ -99,4 +103,4 @@ quentin.say_about()
 <!-- ![Visitor Count](https://profile-counter.glitch.me/QuentinClyy/count.svg) >  
 -->
 
-![Vsdaas](./assets/footer/footer.gif)
+![Vsdaas](./assets/footer/footerAlpha.gif)

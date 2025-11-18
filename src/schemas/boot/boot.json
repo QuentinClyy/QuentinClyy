@@ -1,6 +1,6 @@
 {
   "label": "Boot",
-  "message": "Pending",
-  "color": "yellow",
+  "message": "Complete",
+  "color": "0e91b5",
   "style": "for-the-badge"
 }

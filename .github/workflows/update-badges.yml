@@ -1,0 +1,88 @@
+name: Badge updater
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Compute time and update boot + status
+        run: |
+          HOUR=$(date +%H)
+          MINUTE=$(date +%M)
+
+          # ---------------------------
+          # BOOT BADGE LOGIC
+          # ---------------------------
+          if [ "$HOUR" -ge 2 ] && [ "$HOUR" -lt 8 ]; then
+            BOOT_STATE="Pending"
+            BOOT_COLOR="yellow"
+
+          elif [ "$HOUR" -eq 8 ] && [ "$MINUTE" -lt 30 ]; then
+            BOOT_STATE="Initializing"
+            BOOT_COLOR="orange"
+
+          else
+            BOOT_STATE="Complete"
+            BOOT_COLOR="0e91b5"
+          fi
+
+          mkdir -p src/schemas/boot
+
+          cat <<EOF > src/schemas/boot/boot.json
+          {
+            "label": "Boot",
+            "message": "$BOOT_STATE",
+            "color": "$BOOT_COLOR",
+            "style": "for-the-badge"
+          }
+          EOF
+
+          # ---------------------------
+          # STATUS BADGE LOGIC
+          # ---------------------------
+          if [ "$HOUR" -ge 2 ] && [ "$HOUR" -lt 8 ] && [ "$MINUTE" -lt 30 ]; then
+            STATUS_STATE="Offline"
+            STATUS_COLOR="inactive"
+
+          # Idle hour
+          elif [ "$HOUR" -eq 1 ]; then
+            STATUS_STATE="Idle"
+            STATUS_COLOR="orange"
+
+          # Otherwise Running
+          else
+            STATUS_STATE="Running"
+            STATUS_COLOR="20ff91"
+          fi
+
+          mkdir -p src/schemas/status
+
+          cat <<EOF > src/schemas/status/status.json
+          {
+            "label": "Status",
+            "message": "$STATUS_STATE",
+            "color": "$STATUS_COLOR",
+            "style": "for-the-badge"
+          }
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add src/schemas/boot/boot.json
+          git add src/schemas/status/status.json
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update status + boot badges"
+            git push
+          else
+            echo "No changes detected — skipping commit"
+          fi

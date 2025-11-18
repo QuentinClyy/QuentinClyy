@@ -1,1 +1,6 @@
-{}
+{
+  "label": "Status",
+  "message": "Offline",
+  "color": "inactive",
+  "style": "for-the-badge"
+}

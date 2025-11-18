@@ -1,1 +1,6 @@
-{}
+{
+  "label": "Boot",
+  "message": "Pending",
+  "color": "yellow",
+  "style": "for-the-badge"
+}

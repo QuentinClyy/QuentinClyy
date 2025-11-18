@@ -1,6 +1,6 @@
 {
   "label": "Status",
-  "message": "Running",
-  "color": "18b567",
+  "message": "Idle",
+  "color": "orange",
   "style": "for-the-badge"
 }

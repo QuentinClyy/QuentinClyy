@@ -60,7 +60,7 @@ jobs:
           # Otherwise Running
           else
             STATUS_STATE="Running"
-            STATUS_COLOR="14e17e"
+            STATUS_COLOR="18b567"
           fi
 
           mkdir -p src/schemas/status

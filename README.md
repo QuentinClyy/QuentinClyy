@@ -1,6 +1,6 @@
 <!-- banner section -->
 
-<img src="./assets/header/QuentinClyy.png">
+<img src="./src/assets/header/QuentinClyy.png">
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=80&pause=700&color=20FF91&center=true&width=1906&height=150&lines=echo+%27Hi%2C+my+name+is+Quentin%27;echo+%27Welcome+to+my+GitHub%27)  
@@ -37,11 +37,11 @@
 <table align="center">
   <tr>
     <td>
-      <p><img src="./assets/icons/blackhole.icon.png" width="24"> Deep into Astrophysics</p>
-      <p><img src="./assets/icons/neuralnet.icon.png" width="24"> Artificial Intelligence is my go-to computer subject</p>
-      <p><img src="./assets/icons/gamepad.icon.png" width="24"> Passionate about competitive video games</p>
-      <p><img src="./assets/icons/conwayglider.icon.png" width="24"> Continuously inspired by Mathematics, specifically Cellular Automatas</p>
-      <p><img src="./assets/icons/laptop.icon.png" width="24"> Always in search of learning</p>
+      <p><img src="./src/assets/icons/blackhole.icon.png" width="24"> Deep into Astrophysics</p>
+      <p><img src="./src/assets/icons/neuralnet.icon.png" width="24"> Artificial Intelligence is my go-to computer subject</p>
+      <p><img src="./src/assets/icons/gamepad.icon.png" width="24"> Passionate about competitive video games</p>
+      <p><img src="./src/assets/icons/conwayglider.icon.png" width="24"> Continuously inspired by Mathematics, specifically Cellular Automatas</p>
+      <p><img src="./src/assets/icons/laptop.icon.png" width="24"> Always in search of learning</p>
     </td>
   </tr>
 </table>
@@ -106,4 +106,4 @@ quentin.say_about()
 <!-- ![Visitor Count](https://profile-counter.glitch.me/QuentinClyy/count.svg) >  
 -->
 
-![Vsdaas](./assets/footer/footerAlpha.gif)
+![Vsdaas](./src/assets/footer/footerAlpha.gif)

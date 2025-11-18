@@ -47,7 +47,7 @@
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Quentinclyy&card_width=550&card_height=217&background=90%2C000000%2C1E3869&border=EB545400&sideNums=20FF91&fire=20FF91&currStreakNum=20FF91&ring=20FF91&dates=CBCBCB&stroke=1E3869&currStreakLabel=20FF91&sideLabels=20FF91">
+  <img src="https://github-readme-streak-stats-lake-nine.vercel.app?user=Quentinclyy&card_width=550&card_height=217&background=90%2C000000%2C1E3869&border=EB545400&sideNums=20FF91&fire=20FF91&currStreakNum=20FF91&ring=20FF91&dates=CBCBCB&stroke=1E3869&currStreakLabel=20FF91&sideLabels=20FF91">
 </p>
 
 <br>

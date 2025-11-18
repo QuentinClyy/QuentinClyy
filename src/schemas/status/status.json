@@ -1,6 +1,6 @@
 {
   "label": "Status",
-  "message": "Idle",
-  "color": "orange",
+  "message": "Offline",
+  "color": "inactive",
   "style": "for-the-badge"
 }

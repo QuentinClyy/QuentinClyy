@@ -21,7 +21,7 @@ jobs:
             COLOR="orange"
           else
             STATE="Complete"
-            COLOR="blue"
+            COLOR="0e91b5"
           fi
 
           echo '{

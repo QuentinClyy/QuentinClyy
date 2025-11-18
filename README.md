@@ -2,14 +2,15 @@
 
 <img src="./assets/header/QuentinClyy.png">
 
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=80&pause=700&color=20FF91&center=true&width=1906&height=150&lines=echo+%27Hi%2C+my+name+is+Quentin%27;echo+%27Welcome+to+my+GitHub%27)  
 
 <!-- Brief section -->
 
 <h2 align="center">
   Full Stack Developer |  <a href=https://www.instagram.com/quentinsshit/>Digital artist</a> sometimes</p>
-  <img src="https://img.shields.io/badge/boot-complete-0e91b5?style=for-the-badge">
-  <img src="https://img.shields.io/badge/status-running-18b567?style=for-the-badge">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FQuentinClyy%2FQuentinClyy%2F%2Fsrc%2Fschemas%2Fboot%2Fboot.json">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FQuentinClyy%2FQuentinClyy%2F%2Fsrc%2Fschemas%2Fstatus%2Fstatus.json">
 </h2>
 
 <!-- Social icons section -->

@@ -8,6 +8,8 @@
 
 <h2 align="center">
   Full Stack Developer |  <a href=https://www.instagram.com/quentinsshit/>Digital artist</a> sometimes</p>
+  <img src="https://img.shields.io/badge/boot-complete-0e91b5?style=for-the-badge">
+  <img src="https://img.shields.io/badge/status-running-18b567?style=for-the-badge">
 </h2>
 
 <!-- Social icons section -->
@@ -50,7 +52,7 @@
 <br>
 
 <!-- Languages & Tools section-->
-# Languages & Tools
+<h2> Languages & Tools </h2>
 
 <!-- Languages -->
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)

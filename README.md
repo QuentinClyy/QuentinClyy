@@ -1,6 +1,6 @@
 <!-- banner section -->
 
-<img src="./src/assets/header/QuentinClyy.png">
+<img src="./src/assets/header/QuentinClyy.png" alt="QuentinClyy">
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=80&pause=700&color=20FF91&center=true&width=1906&height=150&lines=echo+%27Hi%2C+my+name+is+Quentin%27;echo+%27Welcome+to+my+GitHub%27)  
@@ -8,9 +8,15 @@
 <!-- Brief section -->
 
 <h2 align="center">
-  Full Stack Developer |  <a href=https://www.instagram.com/quentinsshit/>Digital artist</a> sometimes</p>
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FQuentinClyy%2FQuentinClyy%2Fmain%2Fsrc%2Fschemas%2Fboot%2Fboot.json&cacheSeconds=1">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FQuentinClyy%2FQuentinClyy%2Fmain%2Fsrc%2Fschemas%2Fstatus%2Fstatus.json&cacheSeconds=1">
+  <p> Full Stack Developer |  <a href=https://www.instagram.com/quentinsshit/>Digital artist</a> sometimes </p>
+  <img
+    src="https://img.shields.io/endpoint?url=https%3A%2F%2Fbasic-api-readme.vercel.app%2Fapi%2Fboot&cacheSeconds=1"
+    alt="Boot badge"
+  />
+  <img
+    src="https://img.shields.io/endpoint?url=https%3A%2F%2Fbasic-api-readme.vercel.app%2Fapi%2Fstatus&cacheSeconds=1"
+    alt="Status badge"
+  />
 </h2>
 
 <!-- Social icons section -->
@@ -37,17 +43,20 @@
 <table align="center">
   <tr>
     <td>
-      <p><img src="./src/assets/icons/blackhole.icon.png" width="24"> Deep into Astrophysics</p>
-      <p><img src="./src/assets/icons/neuralnet.icon.png" width="24"> Artificial Intelligence is my go-to computer subject</p>
-      <p><img src="./src/assets/icons/gamepad.icon.png" width="24"> Passionate about competitive video games</p>
-      <p><img src="./src/assets/icons/conwayglider.icon.png" width="24"> Continuously inspired by Mathematics, specifically Cellular Automatas</p>
-      <p><img src="./src/assets/icons/laptop.icon.png" width="24"> Always in search of learning</p>
+      <p><img src="./src/assets/icons/blackhole.icon.png" width="24" alt="blackhole"/> Deep into Astrophysics</p>
+      <p><img src="./src/assets/icons/neuralnet.icon.png" width="24" alt="neuralnet"/> Artificial Intelligence is my go-to computer subject</p>
+      <p><img src="./src/assets/icons/gamepad.icon.png" width="24" alt="gamepad"/> Passionate about competitive video games</p>
+      <p><img src="./src/assets/icons/conwayglider.icon.png" width="24" alt="conway"/> Continuously inspired by Mathematics, specifically Cellular Automatas</p>
+      <p><img src="./src/assets/icons/laptop.icon.png" width="24" alt="laptop"/> Always in search of learning</p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-lake-nine.vercel.app?user=Quentinclyy&card_width=550&card_height=217&background=90%2C000000%2C1E3869&border=EB545400&sideNums=20FF91&fire=20FF91&currStreakNum=20FF91&ring=20FF91&dates=CBCBCB&stroke=1E3869&currStreakLabel=20FF91&sideLabels=20FF91">
+  <img
+    src="https://github-readme-streak-stats-lake-nine.vercel.app?user=Quentinclyy&card_width=550&card_height=217&background=90%2C000000%2C1E3869&border=EB545400&sideNums=20FF91&fire=20FF91&currStreakNum=20FF91&ring=20FF91&dates=CBCBCB&stroke=1E3869&currStreakLabel=20FF91&sideLabels=20FF91"
+    alt="GitHub Streak"
+  />
 </p>
 
 <br>
@@ -106,4 +115,4 @@ quentin.say_about()
 <!-- ![Visitor Count](https://profile-counter.glitch.me/QuentinClyy/count.svg) >  
 -->
 
-![Vsdaas](./src/assets/footer/footerAlpha.gif)
+![Footer](./src/assets/footer/footerAlpha.gif)

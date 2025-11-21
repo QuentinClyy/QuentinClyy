@@ -10,11 +10,11 @@
 <h2 align="center">
   <p> Full Stack Developer |  <a href=https://www.instagram.com/quentinsshit/>Digital artist</a> sometimes </p>
   <img
-    src="https://img.shields.io/endpoint?url=https%3A%2F%2Fbasic-api-readme.vercel.app%2Fapi%2Fboot&cacheSeconds=1"
+    src="https://img.shields.io/endpoint?url=https%3A%2F%2Fbasic-api-readme.vercel.app%2Fapi%2Fbadge%2Fboot&cacheSeconds=1"
     alt="Boot badge"
   />
   <img
-    src="https://img.shields.io/endpoint?url=https%3A%2F%2Fbasic-api-readme.vercel.app%2Fapi%2Fstatus&cacheSeconds=1"
+    src="https://img.shields.io/endpoint?url=https%3A%2F%2Fbasic-api-readme.vercel.app%2Fapi%2Fbadge%2Fstatus&cacheSeconds=1"
     alt="Status badge"
   />
 </h2>
